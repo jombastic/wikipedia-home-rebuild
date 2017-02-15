@@ -6,18 +6,35 @@
 #left-article h2 {
   border: 1px solid #939b94;
   background-color: #a9ceab;
-  padding: 10px;
-  margin-top: 0px;
 }
 #left-article img {
   float: left;
   padding-right: 10px;
 }
-
 #dishImg {
   float: right;
 }
 #bear {
   font-style: italic;
+  font-weight: bold;
+}
+
+#right-article {
+  border: 1px solid #78afd3;
+  background-color: #edf7ff;
+  padding: 10px;
+}
+#right-article h2 {
+  border: 1px solid #939b94;
+  background-color: #a6c4d8;
+}
+
+#right-article h2, #left-article h2 {
+  padding: 10px;
+  margin-top: 0px;
+}
+
+h2 {
+  font-size: 16px;
   font-weight: bold;
 }
