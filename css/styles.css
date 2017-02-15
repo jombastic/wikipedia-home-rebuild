@@ -1,6 +1,6 @@
 #left-article {
   border: 1px solid #b0e8b4;
-  background-color: #f7f7f7;
+  background-color: #eff9f0;
   padding: 10px;
 }
 #left-article h2 {
@@ -16,4 +16,8 @@
 
 #dishImg {
   float: right;
+}
+#bear {
+  font-style: italic;
+  font-weight: bold;
 }
