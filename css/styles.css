@@ -1,0 +1,19 @@
+#left-article {
+  border: 1px solid #b0e8b4;
+  background-color: #f7f7f7;
+  padding: 10px;
+}
+#left-article h2 {
+  border: 1px solid #939b94;
+  background-color: #a9ceab;
+  padding: 10px;
+  margin-top: 0px;
+}
+#left-article img {
+  float: left;
+  padding-right: 10px;
+}
+
+#dishImg {
+  float: right;
+}
