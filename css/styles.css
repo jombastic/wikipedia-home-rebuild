@@ -64,3 +64,8 @@
   font-family: "Times New Roman";
   font-size: 25px;
 }
+
+#sections {
+  border: 1px solid #89b3ed;
+  padding: 15px;
+}
