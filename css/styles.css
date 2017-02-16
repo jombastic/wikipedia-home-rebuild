@@ -29,7 +29,26 @@
   background-color: #a6c4d8;
 }
 
-#right-article h2, #left-article h2 {
+#purple-article {
+  border: 1px solid #d2bcd6;
+  background-color: #f7e5fc;
+  padding: 10px;
+}
+
+#purple-article h2 {
+  border: 1px solid #939b94;
+  background-color: #d2bcd6;
+}
+
+#purple-article img {
+  margin-right: 10px;
+}
+
+#centerParagraph {
+    padding: 50px 0;
+}
+
+#right-article h2, #left-article h2, #purple-article h2 {
   padding: 10px;
   margin-top: 0px;
 }
