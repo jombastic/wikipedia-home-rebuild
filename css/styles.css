@@ -73,6 +73,10 @@
   padding: 10px 10px 10px 0px;
 }
 
+#header-menu {
+  margin: 60px 0;
+}
+
 #sections {
   border: 1px solid #89b3ed;
   padding: 15px;
