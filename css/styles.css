@@ -65,9 +65,21 @@
   font-size: 25px;
 }
 
+#logo {
+  margin: 25px 0;
+}
+
+#header {
+  padding: 10px 10px 10px 0px;
+}
+
 #sections {
   border: 1px solid #89b3ed;
   padding: 15px;
+}
+
+#right-bar {
+  margin-left: 35%;
 }
 
 #footer {

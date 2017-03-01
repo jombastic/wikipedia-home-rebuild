@@ -10,9 +10,7 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-2">
-          <br/>
-          <img src="img/wikipedia-logo.gif" alt="Wikipedia Logo" class="img-responsive"/>
-          <br/>
+          <img id="logo" src="img/wikipedia-logo.gif" alt="Wikipedia Logo" class="img-responsive"/>
           <ul class="list-unstyled">
             <li><a href="#">Main Page</a></li>
             <li><a href="#">Contents</a></li>
@@ -23,11 +21,10 @@
             <li><a href="#">Wikipedia store</a></li>
           </ul>
         </div>
-        <br/>
 
         <div class="col-md-10">
           <div class="row">
-            <div class="col-md-12">
+            <div class="col-md-12" id="header">
               <div class="pull-right">
                 <ul class="list-inline">
                   <li>Not logged in</li>
@@ -39,25 +36,21 @@
               </div>
             </div>
           </div>
-          <br/>
 
           <div id="sections">
             <div class="row">
-              <div class="col-md-4">
+              <div class="col-md-8">
                 <ul class="nav nav-tabs">
                   <li role="presentation" class="active"><a href="#">Main Page</a></li>
                   <li role="presentation"><a href="#">Talk</a></li>
-                </ul>
-              </div>
-              <div class="col-md-4">
-                <ul class="nav nav-tabs">
-                  <li role="presentation" class="active"><a href="#">Read</a></li>
+
+                  <li role="presentation" class="active" id="right-bar"><a href="#">Read</a></li>
                   <li role="presentation"><a href="#">View source</a></li>
                   <li role="presentation"><a href="#">View history</a></li>
                 </ul>
               </div>
               <div class="col-md-4">
-                <div class="pull-right">
+                <div class="text-center">
                   <form class="form-inline">
                     <div class="form-group">
                       <label class="sr-only" for="exampleSearch">Search Bar</label>
