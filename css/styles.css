@@ -1,7 +1,7 @@
 #left-article {
   border: 1px solid #b0e8b4;
   background-color: #eff9f0;
-  padding: 10px;
+  padding: 1%;
 }
 #left-article h2 {
   border: 1px solid #939b94;
@@ -9,7 +9,7 @@
 }
 #left-article img {
   float: left;
-  padding-right: 10px;
+  padding-right: 1.5%;
 }
 #dishImg {
   float: right;
@@ -22,17 +22,21 @@
 #right-article {
   border: 1px solid #78afd3;
   background-color: #edf7ff;
-  padding: 10px;
+  padding: 1%;
 }
 #right-article h2 {
   border: 1px solid #939b94;
   background-color: #a6c4d8;
 }
+#img-right {
+  float: right;
+  padding-left: 1.5%;
+}
 
 #purple-article {
   border: 1px solid #d2bcd6;
   background-color: #f7e5fc;
-  padding: 10px;
+  padding: 1%;
 }
 
 #purple-article h2 {
@@ -41,15 +45,26 @@
 }
 
 #purple-article img {
-  margin-right: 10px;
+  margin-right: 1%;
 }
 
 #centerParagraph {
     padding: 50px 0;
 }
 
+#left-article h2 {
+  padding: 1.4%;
+}
+
+#right-article h2 {
+  padding: 1.8%;
+}
+
+#purple-article h2 {
+  padding: 1%;
+}
+
 #right-article h2, #left-article h2, #purple-article h2 {
-  padding: 10px;
   margin-top: 0px;
 }
 
@@ -79,7 +94,7 @@
 
 #sections {
   border: 1px solid #89b3ed;
-  padding: 15px;
+  padding: 1.5%;
 }
 
 #right-bar {
