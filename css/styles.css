@@ -84,10 +84,10 @@
 }
 
 #logo {
-  margin: 25px 0;
+  margin-bottom: 20px;
 }
 
-#header {
+#upper-menu {
   padding: 10px 10px 10px 0px;
 }
 
@@ -110,6 +110,7 @@
 }
 
 #sections {
+  background-color: #ffffff;
   border: 1px solid #89b3ed;
   padding: 1.5%;
 }
@@ -124,4 +125,8 @@
 
 hr {
   margin: 3px;
+}
+
+body {
+  background-color: #f2f6fc;
 }
