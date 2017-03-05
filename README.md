@@ -10,7 +10,7 @@ This webpage is my complete reconstruction of the wikipedia homepage as an learn
 
 ## Setup
 
-* To see the page open the link https://github.com/jombastic/wikipedia-home-rebuild
+* To see the page open the link https://jombastic.github.io/wikipedia-home-rebuild/
 
 * To download the page click clone or download on github
 
