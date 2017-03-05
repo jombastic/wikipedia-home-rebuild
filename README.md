@@ -6,7 +6,7 @@
 
 ## Description
 
-This webpage is my complete reconstruction of the wikipedia homepage as an learning exercise, without ever looking at the source code, EVER! With using my personal experience gained previously with the help of the learnhowtoprogram.com website I was able to make it look close enough to the original. Cheers!
+This webpage is my complete reconstruction of the wikipedia homepage as a learning exercise, without ever looking at the source code, EVER! With using my personal knowledge gained previously with the help of the learnhowtoprogram.com website I was able to make it look close enough to the original. Cheers!
 
 ## Setup
 
